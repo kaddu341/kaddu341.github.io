@@ -38,6 +38,6 @@ project (<https://github.com/kaddu341/ChatGIT/tree/awwab>).
 
 ### Contact
 
-- Email: <awwabaliazam@gmail.com>
+- Email: <awwab.azam@ufl.edu>
 - [LinkedIn profile](https://www.linkedin.com/in/awwab-ali-azam-101a4b257/)
 - [Medium blog](https://medium.com/@awwabaliazam)
