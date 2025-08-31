@@ -16,5 +16,5 @@ grows. Our project focuses on using machine learning to develop an efficient alt
 baseline HF algorithm for predicting the state of quantum systems.
 - **Project responsibilities:** I am primarily responsible for the machine learning aspects of the project, including data preprocessing and postprocessing, as well as designing, implementing, and training neural networks, and fine-tuning their hyperparameters.
 - **Media:**  
-![Flowchart showing the Hartree-Fock algorithm](/images/hartree_fock.png "The Hartree-Fock method")  
+![Flowchart showing the Hartree-Fock algorithm](/assets/images/hartree_fock.png "The Hartree-Fock method")  
 *Above: Flowchart showing the steps in the Hartree-Fock algorithm for quantum many-body simulations. Our project aims to use a machine learning model to predict a density matrix that is very close to the converged state, which is then used as the new initial "guess" for the algorithm.*

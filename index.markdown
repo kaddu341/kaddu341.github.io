@@ -6,7 +6,7 @@ layout: home
 title: About
 ---
 
-![A profile picture](images/profile_img.jpeg "Professional Headshot")
+![A profile picture](/assets/images/profile_img.jpeg "Professional Headshot")
 
 ### Welcome to my website!
 
