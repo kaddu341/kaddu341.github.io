@@ -14,6 +14,7 @@ permalink: /coursework/
 
 **Computer Engineering:**
 
+- EEL 4744C (Microprocessor Applications 1): A
 - EEL 3701C (Digital Logic and Computer Systems): A
 - COP 3530 (Data Structures and Algorithms): A
 - CDA 3101 (Introduction to Computer Organization): A
@@ -28,6 +29,7 @@ permalink: /coursework/
 
 **Physics:**
 
+- PHY 3101 (Introduction to Modern Physics): A
 - PHZ 3113 (Introduction to Theoretical Physics): A-
 - PHY 2061 (Enriched Physics with Calculus 2): A
 - PHY 2060 (Enriched Physics with Calculus 1): A
