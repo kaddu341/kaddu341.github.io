@@ -6,9 +6,7 @@ permalink: /resume/
 
 [Download CV in PDF format](/assets/Awwab_Azam_CV.pdf)
 
-## Featured Sections
-
-### Publications, Posters, and Presentations
+## Publications, Posters, and Presentations
 
 **Publications**
 
@@ -28,23 +26,7 @@ permalink: /resume/
 - **A. A. Azam**, "Introduction to PyTorch", Workshop taught for the IEEE Signal Processing Society at UF (in collaboration with the Society of Physics Students) twice, on 15 May and 04 Sept. 2025.
 - **A. A. Azam**, "Self-Attention and Transformer Models from Scratch", Workshop taught for the IEEE Signal Processing Society at UF (in collaboration with the Society of Physics Students) twice, on 12 June and 20 Nov. 2025.
 
-### Honors and Awards
-
-- UF Center for Condensed Matter Sciences (CCMS) Undergraduate Fellowship (2025-2026)
-- AI Scholars Program (2025-2026, 2026-2027)
-- President's Honor Roll (Summer 2025)
-- Dean's List (Summer 2025, Fall 2025, Spring 2026)
-- 3rd place winner, GatorHack AI Hackathon, sponsored by NVIDIA and Verizon (2023). Artificial Intelligence Lead for the ChatGIT project ([Devpost](https://devpost.com/software/chatgit), [GitHub](https://github.com/kaddu341/ChatGIT/tree/awwab)).
-
-### Skills
-- **Programming Languages:** Python, C/C++, Java/Kotlin
-- **Machine Learning:** PyTorch and JAX for training NN models, PyTorch Geometric for graph neural networks, hyperparameter optimization with RayTune and Optuna
-- **Software:** Quantum ESPRESSO and EPW for DFT and electron-phonon calculations, scientific programming using NumPy/SciPy, plotting and data visualization with Matplotlib, Bash scripting, Linux command line, high-performance computing (SLURM, OpenMP, HiPerGator 4.0/AI HPC cluster at UF), Git/GitHub, LaTeX
-- **Hardware:** ARM/AVR assembly, microcontrollers (embedded C, UART/SPI), breadboard prototyping, basic FPGA programming with VHDL
-
-## Additional Info
-
-### Education
+## Education
 
 - BS/BA at UF (2023-2027 expected)
   - GPA: 3.89/4.0
@@ -54,6 +36,21 @@ permalink: /resume/
   - SAT: 1560 (790 Math, 770 Reading & Writing)
   - Weighted GPA: 4.35 (out of 4.0)
   - Activities: Newsletter Club, Soccer Team
+
+## Honors and Awards
+
+- UF Center for Condensed Matter Sciences (CCMS) Undergraduate Fellowship (2025-2026)
+- AI Scholars Program (2025-2026, 2026-2027)
+- President's Honor Roll (Summer 2025)
+- Dean's List (Summer 2025, Fall 2025, Spring 2026)
+- 3rd place winner, GatorHack AI Hackathon, sponsored by NVIDIA and Verizon (2023). Artificial Intelligence Lead for the ChatGIT project ([Devpost](https://devpost.com/software/chatgit), [GitHub](https://github.com/kaddu341/ChatGIT/tree/awwab)).
+
+## Skills
+
+- **Programming Languages:** Python, C/C++, Java/Kotlin
+- **Machine Learning:** PyTorch and JAX for training NN models, PyTorch Geometric for graph neural networks, hyperparameter optimization with RayTune and Optuna
+- **Software:** Quantum ESPRESSO and EPW for DFT and electron-phonon calculations, scientific programming using NumPy/SciPy, plotting and data visualization with Matplotlib, Bash scripting, Linux command line, high-performance computing (SLURM, OpenMP, HiPerGator 4.0/AI HPC cluster at UF), Git/GitHub, LaTeX
+- **Hardware:** ARM/AVR assembly, microcontrollers (embedded C, UART/SPI), breadboard prototyping, basic FPGA programming with VHDL
 
 ## Contact
 

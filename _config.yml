@@ -62,6 +62,7 @@ plugins:
 exclude:
   - CLAUDE.md
   - README.md
+  - assets/Awwab_Azam_Resume.pdf
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
