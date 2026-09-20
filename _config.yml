@@ -53,3 +53,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Repo-only files. Jekyll would otherwise render root Markdown into pages
+# (GitHub Pages enables jekyll-optional-front-matter), which puts them in the
+# site nav. Items listed here are added to Jekyll's internal default list.
+# Setting this key REPLACES Jekyll's built-in default list, so the defaults are
+# repeated here.
+exclude:
+  - CLAUDE.md
+  - README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
