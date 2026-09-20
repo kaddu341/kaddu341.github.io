@@ -44,8 +44,6 @@ permalink: /resume/
 
 ## Additional Info
 
-[My old résumé if anybody cares](/assets/Awwab_Azam_Resume.pdf)
-
 ### Education
 
 - BS/BA at UF (2023-2027 expected)
