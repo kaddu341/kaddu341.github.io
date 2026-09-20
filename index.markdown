@@ -10,4 +10,6 @@ title: About
 
 ### Welcome to my website!
 
-My name is Awwab Azam, and I am a junior at the University of Florida pursuing a B.S. in Computer Engineering and a B.A. in Mathematics, with a minor in Physics. I am particularly interested in machine learning and its applications to the basic sciences, as well as in mathematics and physics more broadly. Currently, I am working under Dr. Jiabin Yu to accelerate the calculation of reduced density matrices for quantum many-body systems using deep learning.
+My name is Awwab Azam, and I am a senior at the University of Florida pursuing a B.S. in Computer Engineering and a B.A. in Mathematics, with a minor in Physics. I am particularly interested in machine learning and its applications to the basic sciences, as well as in mathematics and physics more broadly.
+
+Currently, I work with Prof. Jiabin Yu on machine learning for reduced density matrices and large-scale parallel exact diagonalization for quantum many-body systems. A full list of publications is available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=Ryyb8UYAAAAJ).
