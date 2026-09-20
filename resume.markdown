@@ -40,7 +40,7 @@ permalink: /resume/
 - **Programming Languages:** Python, C/C++, Java/Kotlin
 - **Machine Learning:** PyTorch and JAX for training NN models, PyTorch Geometric for graph neural networks, hyperparameter optimization with RayTune and Optuna
 - **Software:** Quantum ESPRESSO and EPW for DFT and electron-phonon calculations, scientific programming using NumPy/SciPy, plotting and data visualization with Matplotlib, Bash scripting, Linux command line, high-performance computing (SLURM, OpenMP, HiPerGator 4.0/AI HPC cluster at UF), Git/GitHub, LaTeX
-- **Hardware:** ARM/AVR assembly, microcontrollers (embedded C, UART/SPI), basic FPGA programming with VHDL
+- **Hardware:** ARM/AVR assembly, microcontrollers (embedded C, UART/SPI), breadboard prototyping, basic FPGA programming with VHDL
 
 ## Additional Info
 
